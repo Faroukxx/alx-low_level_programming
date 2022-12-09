@@ -1,3 +1,7 @@
+/*
+ * File: 4-puts.c
+ * Auth: Farouk Aminu
+ */
 #include <stdio.h>
 int main(void)
 {
